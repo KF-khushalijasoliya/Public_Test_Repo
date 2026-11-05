@@ -153,6 +153,7 @@
   "kfnrBNFQueue": "kfone_kfnr_bnf_queue",
   "kfnr_db": "kfnr",
   "nb_group_id": "d806a6e1-cc0b-4187-87bf-ff4bf78985bf",
+  "OpenAi_Model_Candidate":"gpt 4.0 mini",
   "poppSchedulingKey": "kfone_kfnr_popp_scheduling_key",
   "poppSchedulingQueue": "kfone_kfnr_popp_scheduling_queue",
   "profileViewKey": "kfone_kfnr_profileview_create_key",
